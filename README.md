@@ -1,5 +1,9 @@
 ## 🚀 Desvende o Universo do Seu Assistente de Estudos com IA\! 🧠✨
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VniJD738IHsiIv6Idh26EdsiwaKwPOS9?usp=sharing)
+
+
 [![Alura](https://cursos.alura.com.br/assets/images/immersion/imersao_ia_google_logo.png)](https://cursos.alura.com.br/)
 
 **Cansado de remar contra a maré dos estudos?** 🌊📚
@@ -53,6 +57,8 @@ Este projeto está em sua fase ALPHA e a sua opinião é muito valiosa\! Se voc�
 
 [![Instagram](https://img.shields.io/badge/Instagram-@prof.jvictor-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/prof.jvictor/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jvictorLL-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jvictorLL/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VniJD738IHsiIv6Idh26EdsiwaKwPOS9?usp=sharing)
+
 
 ### 📜 Licença 📜
 
