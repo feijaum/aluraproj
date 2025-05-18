@@ -35,7 +35,7 @@ Com o **Assistente de Estudos Versão ALPHA**, você terá acesso a um arsenal d
 
 ### 🛠️ Como Dar os Primeiros Passos Nesta Jornada? 🛠️
 
-1.  **Acesse o Código:** Navegue pelos arquivos deste repositório e abra o notebook do Google Colab (`.ipynb`).
+1.  **Acesse o Código:** Navegue pelos arquivos deste repositório e salve o notebook do Google Colab (`.ipynb`) para abrir no seu Colab, ou  abra o notebook do Google Colab que está no botão do começo dessa pagina.
 2.  **Prepare o Terreno (Chave da API do Google AI Studio):**
     * Este projeto utiliza a API do Google AI Studio para suas funcionalidades de inteligência artificial. Para executá-lo no Google Colab, você precisará obter sua própria chave de API do Google AI Studio (antigo Maker Suite).
     * No Colab, a chave da API é acessada utilizando a biblioteca `google.colab.userdata`. Você precisará adicionar sua chave como um "Secret" com o nome exato de `GOOGLE_API_KEY`.
